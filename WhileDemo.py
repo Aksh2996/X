@@ -12,6 +12,7 @@ while it>1:
     print("Ki2")
     print("Test1")
     print("Test2")
+    print("Test3")
 
 
 
