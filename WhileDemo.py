@@ -11,6 +11,7 @@ while it>1:
     print("ki")
     print("Ki2")
     print("Test1")
+    print("Test2")
 
 
 
